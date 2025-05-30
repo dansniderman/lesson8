@@ -1,8 +1,15 @@
 {
-  "name": "lesson8",
-  "version": "1.1.0",
+  "name": "@dansniderman/lesson8",
+  "version": "1.1.1",
   "description": "demo application for the GitHubs Actions WorkshopS",
-  "main": "index.js",
+  "main": "/src/appOperations.js",
+  "files": [
+    "/src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dansniderman/lesson8/"
+  },
   "scripts": {
     "test": "jest  --coverage"
   },
