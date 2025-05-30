@@ -7,3 +7,7 @@ test('multiply property of zero', () => {
 test("adding two values", () => {
     expect(appOperations.add(5, 3)).toBe(8);
 });
+
+test("subtracting two values", () => {
+    expect(appOperations.subtract(10, 4)).toBe(6);
+});
