@@ -8,7 +8,7 @@ function multiply(a, b) {
 function add(a, b) {
     const intA = parseInt(a, 10);
     const intB = parseInt(b, 10);
-    return a + b;
+    return intAa + intBb;
 }
 
 function subtract(a, b) {
